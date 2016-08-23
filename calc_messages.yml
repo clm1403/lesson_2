@@ -1,0 +1,7 @@
+english:
+  welcome: "Welcome to the calculator program. Please enter your name ..."
+  goodbye: "Happy calculating! :)"
+
+espanol:
+  welcome: "Bienvinedos al programa calculadora. Como te llamas ..."
+  goodbye: "Feliz trabajando"
